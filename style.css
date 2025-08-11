@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.top-image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.screenshot {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.spacer {
+  margin: 20px 0;
+}
+
+.info-text {
+  margin-top: 30px;
+  font-size: 1.1em;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
