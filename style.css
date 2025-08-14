@@ -26,6 +26,11 @@ body {
   border-radius: 6px;
 }
 
+.screenshot-row {
+  display: flex;
+  gap: 40px; /* adds space between items */
+}
+
 .spacer {
   margin: 20px 0;
 }
@@ -44,5 +49,6 @@ a:hover {
   text-decoration: underline;
 
 }
+
 
 
