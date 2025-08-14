@@ -28,6 +28,7 @@ body {
 
 .screenshot-row {
   display: flex;
+  justify-content: center; /* centers the row horizontally */
   gap: 40px; /* adds space between items */
 }
 
@@ -49,6 +50,7 @@ a:hover {
   text-decoration: underline;
 
 }
+
 
 
 
